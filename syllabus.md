@@ -31,8 +31,11 @@ title: Syllabus
 >[Don Hake](http://faculty.ycp.edu/~djhake2/)<br>
 **Email:** <djhake2@ycp.edu><br>
 **Office:** KEC 137<br>
-**Phone:** (717) 815-????<br>
-**Office Hours:** M W F: TBD; 		          Tu Th: TBD
+**Phone:** (717) 815-6587<br>
+**Office Hours:** M:    10:00 AM - Noon;
+                  T Th: 11:00 AM - Noon;
+                  W F:  11:20 - 11:50 (by appointment), 1:20 - 1:50 (by appointment)
+ 
 
 ------------------
 ###Course Description
