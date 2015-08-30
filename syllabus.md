@@ -14,7 +14,7 @@ title: Syllabus
 
  - **Section 101:**  M W F    9:00 AM - 9:50 AM (Prof. Hake)<br>
  - **Section 102:**  M W F    10:00 AM - 10:50 PM (Dr. Babcock)<br>
- - **Section 103:**  M W F    11:00 AM - 11:50 PM (Dr. Moscola)<br>
+ - **Section 103:**  M W F    11:00 AM - 11:50 PM (Dr. Babcock)<br>
  
 **Location:** KEC119<br>
 **Webpage:**  [http://ycpcs.github.io/cs100-fall2015/](http://ycpcs.github.io/cs100-fall2015/)
