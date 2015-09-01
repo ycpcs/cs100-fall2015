@@ -38,7 +38,7 @@ title: Syllabus
  
 
 ------------------
-###Course
+###Course Description
 
 
 This course introduces basic topics in computing.  PC hardware components will be discussed along with assembly of a system.  The students will then install several different operating systems and perform basic network configuration.  A team design project will introduce basic programming structures using a simple scripting language.
