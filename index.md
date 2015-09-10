@@ -14,19 +14,16 @@ All information about the course will be posted here.
 
 ## Links
 
-<div class="linkcolumn">
-<ul>
-  <li><a href="syllabus.html">Syllabus</a></li>
-  <li><a href="schedule.html">Schedule</a></li>
-<!--  <li><a href="labs/index.html">Labs</a></li>-->
-  <li><a href="resources/index.html">Resources</a></li>
-<!--  <li><a href="submitting.html">Submitting labs and assignments</a></li>-->
-  <li><a href="https://cs.ycp.edu/marmoset">Marmoset (submission server)</a></li>
-</ul>
-</div>
+* [Schedule](schedule.html)
+* [Assignments](assign/index.html)
+* [Resources](resources/index.html)
+* [Syllabus](syllabus.html)
+* [Marmoset server](https://cs.ycp.edu/marmoset)
 
+## News
 
-<div style="clear: both;"></div>
+* **Sept 2** - Welcome back!
+* **Sept 14** - [Assignment 1](assign/CPADS_Assignment_1.pdf) due
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->

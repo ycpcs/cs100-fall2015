@@ -8,10 +8,11 @@ The following schedule is subject to change.
 Additional content will be added as it becomes available throughout the semester.
 
 
->| **Date**       | **Topic**                                                                                            |  **Assignments**         |
->| ---------------|:-----------------------------------------------------------------------------------------------------|--------------------------|
+>| **Date**       | **Topic**                                                                                            |  **Assignments**                                             |
+>| ---------------|:-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 >|||
->| Wed, Sept 2    |  [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)                          |                          |
+>| Wed, Sept 2    |  [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)                          |                                                              |
+>| Fri, Sept 11   |  [Basic Drawing exercises](lectures/lecture1_drawing.pdf)                                            | [CPADS_Assignment_1.pdf](assign/CPADS_Assignment_1.pdf)      |
 
 
 <!-- vim:set wrap: ­-->

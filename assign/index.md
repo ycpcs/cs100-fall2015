@@ -1,0 +1,11 @@
+---
+layout: default
+course_number: CS100
+title: Assignments
+---
+
+This page links to assignments.
+
+> Assignment                                            |     Due     |
+> ----------------------------------------------------- | ----------- |
+> [Assignment 1: Basic Drawing](CPADS_Assignment_1.pdf) | **Sept 14** |
