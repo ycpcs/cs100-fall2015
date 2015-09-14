@@ -24,6 +24,7 @@ All information about the course will be posted here.
 
 * **Sept 2** - Welcome back!
 * **Sept 14** - [Assignment 1](assign/CPADS_Assignment_1.pdf) due
+* **Sept 16** - [Assignment 1b](assign/CPADS_Assignment_1b.pdf) due
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
