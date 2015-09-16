@@ -26,7 +26,7 @@ title: Installing Python & Turtle Graphics
   2. The link above will download a .dmg (a disk image) file containing the Python installer.  Open the .pkg file to run the installer accepting all of the default options.  If you receive a message indicating that you cannot install the package because it is from an _unidentified developer_, see Apple's support document [here](http://support.apple.com/kb/HT5290?viewlocale=en_US&locale=en_US)<br>  
   3. Download a zip file containing the swampy 2.1 package [here](http://www.greenteapress.com/thinkpython/swampy/swampy-2.1.5.python3.zip)<br>  
   4. Unzip the swampy zip file that you downloaded in the previous step.  You should now have directory called _swampy-2.1.5_ that contains all of the swampy files.<br>  
-  5. Open a terminal window and type **open /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages**
+  5. Open a terminal window and type **open /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages** <br>
   6. Copy all the files from the _swampy-2.1.5_ directory (**NOT** the directory itself) to the folder window that opened in step 5.<br>  
   7. Head over to the [PyCharm website](https://www.jetbrains.com/pycharm/) and follow the directions to install PyCharm on our local machine.<br><br>
 
