@@ -15,6 +15,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Sept 16   |  [Intro to Programming](lectures/lecture2_programming_intro.pdf)                                     | [*Think Python*, Chapters 1-3](http://greenteapress.com/thinkpython/thinkpython.html) <br /> [CPADS_Assignment_2.pdf](assign/CPADS_Assignment_2.pdf)     |
 >| Fri, Sept 18   |  [Variable and Expressions](lectures/lecture3_variables_expressions.pdf)                             | [*Think Python*, Chapters 1-2](http://greenteapress.com/thinkpython/thinkpython.html) <br /> [CPADS_Assignment_3.pdf](assign/CPADS_Assignment_3.pdf)     |
 >| Wed, Sept 22   |  [Functions](lectures/lecture4_functions.pdf)                                                        | [*Think Python*, Chapters 3](http://greenteapress.com/thinkpython/thinkpython.html) <br />  [CPADS_Reading_Activity_1.pdf](assign/CPADS_Reading_Activity_1.pdf)      |
+>| Wed, Sept 30   |  [Lab Activity 1](assign/CPADS_Lab_Activity_1.pdf) <br /> [Lab_Activity_1.zip](Lab_Activity_1.zip)   | [*Think Python*, Chapters 3](http://greenteapress.com/thinkpython/thinkpython.html)       |
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
