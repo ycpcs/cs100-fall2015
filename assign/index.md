@@ -14,3 +14,4 @@ This page links to assignments.
 > [Assignment 3: Up and Down!](CPADS_Assignment_3.pdf) <br> [stairs.py](src/Assign3/stairs.py)    | **Sept 25** |
 > [Reading Activity 1](CPADS_Reading_Activity_1.pdf) <br> [pyramid.py](src/Reading1/pyramid.py)   | **Sept 28** |
 > [Lab Activity 1](CPADS_Lab_Activity_1.pdf) <br> [Lab_Activity_1.zip](src/Lab_Activity_1.zip)    | **Oct 5**   |
+> [Lab Activity 2](CPADS_Lab_Activity_2.pdf) <br> [Lab_Activity_2.zip](src/Lab_Activity_2.zip)    | **Oct 14**   |
