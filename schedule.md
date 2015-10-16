@@ -17,7 +17,8 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Sept 22   |  [Functions](lectures/lecture4_functions.pdf)                                                        | [*Think Python*, Chapters 3](http://greenteapress.com/thinkpython/thinkpython.html) <br />  [CPADS_Reading_Activity_1.pdf](assign/CPADS_Reading_Activity_1.pdf)      |
 >| Wed, Sept 30   |  [Lab Activity 1](assign/CPADS_Lab_Activity_1.pdf) <br /> [Lab_Activity_1.zip](assign/Lab_Activity_1.zip)   | [*Think Python*, Chapters 3](http://greenteapress.com/thinkpython/thinkpython.html)       |
 >| Wed, Oct 7     |  [Debugging](lectures/lecture5_debugging.pdf)                                                        |       |
->| Fri, Oct 9     |  [Iteration](lectures/lecture6_iteration.pdf)                                                        | [*Think Python*, Chapter 4](http://greenteapress.com/thinkpython/thinkpython.html)      |
+>| Fri, Oct 9     |                                                                                                      |        |
+>| Fri, Oct 16    |  Course Feedback                                                                                     |  [CPADS_feedback.pdf](assign/CPADS_feedback.pdf) <br /> [CPADS_feedback.docx](assign/CPADS_feedback.docx)     |
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
