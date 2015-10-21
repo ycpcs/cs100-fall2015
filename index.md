@@ -28,6 +28,11 @@ All information about the course will be posted here.
 * **Sept 18** - [Assignment 2](assign/CPADS_Assignment_2.pdf) due
 * **Sept 25** - [Assignment 3](assign/CPADS_Assignment_3.pdf) due
 * **Sept 28** - [Reading Activity 1](assign/CPADS_Reading_Activity_1.pdf) due
+* **Oct 5** - [Lab Activity 1](assign/CPADS_Lab_Activity_1.pdf) due
+* **Oct 12, 14 - EXAM I**
+* **Oct 16** - [Lab Activity 2](assign/CPADS_Lab_Activity_2.pdf) due
+* **Oct 19 - NO CLASS, FALL BREAK**
+* **Oct 21** - [CPADS Feedback](assign/CPADS_feedback.pdf) due
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->

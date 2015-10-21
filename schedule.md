@@ -19,6 +19,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Oct 7     |  [Debugging](lectures/lecture5_debugging.pdf)                                                        |       |
 >| Fri, Oct 9     |                                                                                                      |        |
 >| Fri, Oct 16    |  Course Feedback                                                                                     |  [CPADS_feedback.pdf](assign/CPADS_feedback.pdf) <br /> [CPADS_feedback.docx](assign/CPADS_feedback.docx)     |
+>| Wed, Oct 21    |  [Iteration](lectures/lecture6_iteration.pdf)                                                        | [*Think Python*, Chapter 4](http://greenteapress.com/thinkpython/thinkpython.html) <br />  [CPADS_Reading_Activity_2.pdf](assign/CPADS_Reading_Activity_2.pdf)   |
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
