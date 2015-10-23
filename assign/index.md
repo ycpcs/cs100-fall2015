@@ -16,3 +16,4 @@ This page links to assignments.
 > [Lab Activity 1](CPADS_Lab_Activity_1.pdf) <br> [Lab_Activity_1.zip](src/Lab_Activity_1.zip)    | **Oct 5**   |
 > [Lab Activity 2](CPADS_Lab_Activity_2.pdf) <br> [Lab_Activity_2.zip](src/Lab_Activity_2.zip)    | **Oct 14**   |
 > [CPADS_feedback.pdf](CPADS_feedback.pdf) <br> [CPADS_feedback.docx](CPADS_feedback.docx)    | **Oct 21**   |
+> [Assignment 4: Loops](CPADS_Assignment_4.pdf) <br> [Assign4.zip](src/Assign3.zip)    | **Oct 28** |
