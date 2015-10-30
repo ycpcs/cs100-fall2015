@@ -34,6 +34,7 @@ All information about the course will be posted here.
 * **Oct 19 - NO CLASS, FALL BREAK**
 * **Oct 21** - [CPADS Feedback](assign/CPADS_feedback.pdf) due
 * **Oct 28** - [Assignment 4](assign/CPADS_Assignment_4.pdf) due
+* **Nov 2** - [Lab Activity 3](assign/CPADS_Lab_Activity_3.pdf) due
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
