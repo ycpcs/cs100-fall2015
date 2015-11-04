@@ -22,7 +22,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Oct 21    |  [Iteration](lectures/lecture6_iteration.pdf)                                                        | [*Think Python*, Chapter 4](http://greenteapress.com/thinkpython/thinkpython.html) <br />  [CPADS_Reading_Activity_2.pdf](assign/CPADS_Reading_Activity_2.pdf)   |
 >| Fri, Oct 17    |                                                                                                      | [CPADS_Assignment_4.pdf](assign/CPADS_Assignment_4.pdf) <br /> [Assign4.zip](assign/src/Assign4.zip)   |
 >| Fri, Oct 30    |  [Lab Activity 3](assign/CPADS_Lab_Activity_3.pdf) <br /> [Lab_Activity_3.zip](assign/src/Lab_Activity_3.zip)   |       |
->| Wed, Nov 4     |  [Decisions](lectures/lecture7_decisions.pdf)                                                        | [*Think Python*, Chapter 5](http://greenteapress.com/thinkpython/thinkpython.html)    |
+>| Wed, Nov 4     |  [Decisions](lectures/lecture7_decisions.pdf)                                                        | [*Think Python*, Chapter 5](http://greenteapress.com/thinkpython/thinkpython.html) <br />  [CPADS_Reading_Activity_3.pdf](assign/CPADS_Reading_Activity_3.pdf)   |
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->

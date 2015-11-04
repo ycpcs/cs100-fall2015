@@ -18,3 +18,4 @@ This page links to assignments.
 > [CPADS_feedback.pdf](CPADS_feedback.pdf) <br> [CPADS_feedback.docx](CPADS_feedback.docx)    | **Oct 21**   |
 > [Assignment 4: Loops](CPADS_Assignment_4.pdf) <br> [Assign4.zip](src/Assign4.zip)    | **Oct 28** |
 > [Lab Activity 3](CPADS_Lab_Activity_3.pdf) <br> [Lab_Activity_3.zip](src/Lab_Activity_3.zip)    | **Nov 2**   |
+> [Reading Activity 3](CPADS_Reading_Activity_3.pdf)                                              | **Nov 9** |
