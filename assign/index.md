@@ -20,3 +20,4 @@ This page links to assignments.
 > [Lab Activity 3](CPADS_Lab_Activity_3.pdf) <br> [Lab_Activity_3.zip](src/Lab_Activity_3.zip)    | **Nov 2**   |
 > [Reading Activity 3](CPADS_Reading_Activity_3.pdf)                                              | **Nov 9** |
 > [Quiz 2 Redo](src/Quiz_2_Redo.zip)                                              | **Nov 13** |
+> [Assignment 5: Pi and Blizzard](CPADS_Assignment_5.pdf) <br> [Assign5.zip](src/Assign5.zip)    | **Nov 18** |
