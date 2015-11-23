@@ -35,6 +35,11 @@ All information about the course will be posted here.
 * **Oct 21** - [CPADS Feedback](assign/CPADS_feedback.pdf) due
 * **Oct 28** - [Assignment 4](assign/CPADS_Assignment_4.pdf) due
 * **Nov 2** - [Lab Activity 3](assign/CPADS_Lab_Activity_3.pdf) due
+* **Nov 18** - [Assignment 5](assign/CPADS_Assignment_5.pdf) due
+* **Nov 18, 20 - EXAM II**
+* **Nov 30** - [Final Project Proposals](assign/CPADS_FinalProject.pdf) due
+* **Dec 7** - [Final Project Progress Demo](assign/CPADS_FinalProject.pdf) due
+* **Dec 16/18** - [Final Project Presentations](assign/CPADS_FinalProject.pdf) due
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
