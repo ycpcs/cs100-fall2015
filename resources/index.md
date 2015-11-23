@@ -20,3 +20,5 @@ This page contains links to useful resources.
  - Directions for installing Python and Turtle Graphics are [here](installing_swampy.html)
  
  - Download PyCharm [here](http://www.jetbrains.com/pycharm/)
+
+ - [PyGame](http://www.pygame.org/hifi.html)
