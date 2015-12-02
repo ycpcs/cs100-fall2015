@@ -36,7 +36,7 @@ All information about the course will be posted here.
 * **Oct 28** - [Assignment 4](assign/CPADS_Assignment_4.pdf) due
 * **Nov 2** - [Lab Activity 3](assign/CPADS_Lab_Activity_3.pdf) due
 * **Nov 18** - [Assignment 5](assign/CPADS_Assignment_5.pdf) due
-* **Nov 18, 20 - EXAM II**
+* **Nov 18, 20 - EXAM II**, [Exam 2 Written Solutions](assign/CPADS_Exam2_solutions.pdf) <br />[Exam 2 Programming Solutions](assign/src/exam2_solutions.py)
 * **Nov 30** - [Final Project Proposals](assign/CPADS_FinalProject.pdf) due
 * **Dec 7** - [Final Project Progress Demo](assign/CPADS_FinalProject.pdf) due
 * **Dec 16/18** - [Final Project Presentations](assign/CPADS_FinalProject.pdf) due
